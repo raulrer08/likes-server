@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import logger from './logger'
 
 export const notFound = (req, res, next) => {

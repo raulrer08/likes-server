@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import passport from 'passport'
 import { Strategy } from 'passport-local'
 
@@ -13,4 +14,4 @@ passport.use(
   }),
 )
 
-export default passport
+export default passport 
